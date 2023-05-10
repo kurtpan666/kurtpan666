@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;I'm+Kurt+Pan)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&duration=3000&pause=1000&color=1CBBF7&background=16FF1700&center=true&width=435&lines=I+am+Kurt+Pan.;%E6%88%91%E6%98%AF+Kurt+Pan%E3%80%82" alt="Typing SVG" /></a>
 
 
 <!--
