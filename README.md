@@ -1,4 +1,5 @@
-### I'm Kurt Pan. 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;I'm+Kurt+Pan)](https://git.io/typing-svg)
+
 
 <!--
 **kurtpan666/kurtpan666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
