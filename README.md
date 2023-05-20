@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - [密码之地 Cryptoland](https://cryptography.land/2023/02/22/pairings-or-bilinear-maps)
+- [Kurt Pan’s Awesome Zero-Knowledge Proofs (2022)](https://site.kurtpan.pro/ktpzkp22.html)
+- [My Translation List(-2022)](https://site.kurtpan.pro/translations.html)
+- [My Posts(-2022)](https://site.kurtpan.pro/posts.html)
