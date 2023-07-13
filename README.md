@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [密码之地 Cryptoland](https://cryptography.land/2023/02/22/pairings-or-bilinear-maps)
 - [ZK Research Highlights](https://zk.cryptography.land)
 - [零知论坛](https://github.com/landcrypto/ZK_QUESTION/discussions)
-- [中文博客](https://www.kurtpan.pro/) （服务器不稳定）
+- [博客](https://www.kurtpan.pro/) 
 - [Kurt Pan’s Awesome Zero-Knowledge Proofs (2022)](https://site.kurtpan.pro/ktpzkp22.html)
 - [My Translation List(-2022)](https://site.kurtpan.pro/translations.html)
 - [My Posts(-2022)](https://site.kurtpan.pro/posts.html)
